@@ -1,3 +1,3 @@
-Title; Site (link); Username (if there is no Username let the case blank); Password; PS:Excel excells to be a real SHIT for CSV editing
+Title; Site (link); Username (if there is no Username let the case blank); Password; PS:Excel excells to be a real SHIT for CSV editing oh and the name of this file need to be "login_list.csv"
 Basic Example; https://example.com/; UserExample; ExamplePassword
 No Username Example; https://example.com; ; ExampleWithNoUsernamePassword
